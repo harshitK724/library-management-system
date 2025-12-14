@@ -1,3 +1,7 @@
+## Feature LMS Implementation
+This branch contains the complete Library Management System implementation.
+
+
 Library Management System (Java)
 
 A simple in-memory Library Management System built in Java to demonstrate OOP, SOLID principles, Java Collections, logging, and common design patterns.
